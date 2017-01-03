@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.floating{
+	float: left;
+	margin: 10px;
+	width:270px;
+}
+
+#painelSite button {
+	width: 240px;
+	}	
+#painelRelatorio {
+	text-align: center;
+	font-size:18px;
+	}
+
+div li#publicado{
+	overflow-wrap: break-word;
+	/*word-wrap: break-word;*/
+	padding-rigth: 10px;
+	width: 200px;
+	}
+#painelRelatorio li {
+	font-size:18px;
+	/*overflow: hidden;*/
+/*	padding-right: 15px;*/
+	
+	}
+
+#painelAgenda {
+	width:300px;
+	overflow-wrap: normal;
+	
+	}
+#formSuporte .form-control {
+	width: 550px;
+	}
+#indexAgendaFooter {
+	text-align: right;
+}
+
+.footer{
+	clear: left;
+}
